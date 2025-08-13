@@ -1,0 +1,4 @@
+(test
+ (name test_fir)
+ (modules test_fir)
+ (libraries hardcaml alcotest hardcaml_mini_core))

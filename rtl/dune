@@ -1,0 +1,5 @@
+(library
+ (name hardcaml_mini_core)
+ (public_name hardcaml_mini_core)
+ (modules fir)
+ (libraries hardcaml))
